@@ -10,3 +10,8 @@ Para demonstrar o report de um bug encontrado dentre os testes (manuais e automa
 metodologias ágeis, será cadastrado os cards no board do projeto.
 
 O projeto pode ser acessado via https://github.com/users/IgorGouveia1/projects/6/views/1
+
+--
+Para executar o projeto utilizando o framework Cypress, é possível a iniciação via NPM ou Yarn em um terminal ou via o executável disponível no link: https://download.cypress.io/desktop
+
+
