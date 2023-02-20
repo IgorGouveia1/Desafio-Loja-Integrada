@@ -8,3 +8,5 @@ Em seguida inicia-se a validação especifica de cada cenário conforme o uso de
 
 Para demonstrar o report de um bug encontrado dentre os testes (manuais e automatizados), para este repositório será criado um projeto e a fim de demonstrar a utilização de
 metodologias ágeis, será cadastrado os cards no board do projeto.
+
+O projeto pode ser acessado via https://github.com/users/IgorGouveia1/projects/6/views/1
